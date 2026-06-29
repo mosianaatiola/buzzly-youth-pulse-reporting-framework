@@ -2,88 +2,92 @@
 
 ## Overview
 
-This repository showcases the reporting framework I developed during my Data Analytics Internship with **Buzzly (Auckland Council)**.
+This repository showcases the reporting framework I developed during my **Data Analytics Internship with Buzzly (Auckland Council)**.
 
-The project focused on creating a reusable reporting system to automate data preparation, qualitative analysis and reporting for youth engagement data.
+The project focused on developing a reusable reporting framework to streamline data preparation, qualitative analysis and insight reporting for youth engagement initiatives.
 
-> **Note:** This repository is a portfolio showcase only. No confidential datasets, internal workbooks, proprietary code or Buzzly reports are included.
+> **Note:** This repository is a portfolio showcase only. It does not contain confidential datasets, internal workbooks, proprietary code or Buzzly reports.
 
 ---
 
 ## My Contributions
 
-During the internship I:
+During my internship, I:
 
-- Developed automated Power Query workflows for importing, cleaning and transforming data
-- Built reusable Excel reporting templates
-- Designed qualitative coding frameworks for analysing open-text responses
-- Performed thematic analysis to identify key insights
-- Produced two professional insight reports:
-  - Education & Learning
-  - Youth Voice & Participation
-- Created documentation and handover guides for future analysts
-- Applied AI-assisted workflows to improve reporting efficiency while validating all outputs
+* Developed automated Power Query workflows to import, clean and transform raw data
+* Built reusable Excel reporting templates to support consistent analysis
+* Designed qualitative coding frameworks for analysing open-text responses
+* Conducted thematic analysis to identify key trends and insights
+* Produced two professional insight reports:
 
----
-
-## Skills Demonstrated
-
-- Excel
-- Power Query
-- Power Query M
-- Pivot Tables
-- ETL
-- Data Cleaning
-- Qualitative Analysis
-- Thematic Analysis
-- Data Storytelling
-- Documentation
-- Report Automation
-- Canva
-- Git & GitHub
-- ChatGPT / Generative AI
+  * Education & Learning
+  * Youth Voice & Participation
+* Created documentation and handover guides to support future analysts
+* Used AI-assisted workflows responsibly to improve reporting efficiency while validating all outputs
 
 ---
 
-## Project Workflow
+## Technologies & Skills
+
+### Technologies
+
+* Microsoft Excel
+* Power Query
+* Power Query M
+* Pivot Tables
+* Canva
+* Git & GitHub
+* ChatGPT / Generative AI
+
+### Analytics Skills
+
+* ETL (Extract, Transform, Load)
+* Data Cleaning & Transformation
+* Qualitative Data Analysis
+* Thematic Analysis
+* Report Automation
+* Data Storytelling
+* Technical Documentation
+* Stakeholder Reporting
+
+---
+
+## Reporting Workflow
 
 ```text
 Raw Data
-      │
-      ▼
+    │
+    ▼
 Power Query (ETL)
-      │
-      ▼
+    │
+    ▼
 Data Cleaning & Transformation
-      │
-      ▼
-Qualitative Coding
-      │
-      ▼
-Theme Analysis
-      │
-      ▼
-Insight Reports
-      │
-      ▼
+    │
+    ▼
+Qualitative Coding Framework
+    │
+    ▼
+Thematic Analysis
+    │
+    ▼
+Insight Reporting
+    │
+    ▼
 Documentation & Handover
 ```
 
 ---
 
-## What I Learned
+## Key Outcomes
 
-This internship strengthened my skills in:
+This internship enabled me to:
 
-- Data transformation
-- ETL development
-- Report automation
-- Qualitative analysis
-- Data storytelling
-- Documentation
-- Stakeholder communication
-
-It also reinforced the importance of building scalable and reusable analytics solutions that support long-term reporting.
+* Develop reusable analytics workflows
+* Strengthen ETL and Power Query skills
+* Apply qualitative analysis to real-world datasets
+* Produce professional insight reports for stakeholders
+* Improve technical documentation and knowledge transfer
+* Gain experience delivering scalable reporting solutions
 
 ---
 
@@ -91,11 +95,11 @@ It also reinforced the importance of building scalable and reusable analytics so
 
 This repository intentionally excludes:
 
-- Buzzly datasets
-- Internal Excel workbooks
-- Power Query source files
-- Client reports
-- Confidential documentation
-- Proprietary code
+* Buzzly datasets
+* Internal Excel workbooks
+* Power Query source files
+* Internal reports
+* Documentation produced for Buzzly
+* Proprietary code
 
-The purpose of this repository is to demonstrate the skills, workflow and technologies used during the project while respecting confidentiality.
+The purpose of this repository is to demonstrate the skills, workflow and technologies applied during the internship while respecting confidentiality and intellectual property.
